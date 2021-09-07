@@ -11,8 +11,8 @@ I've also experience in cloud service of Amazon (Aws)
  
  
 ### My stacks
-- Base - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=Javascript&logo=Javascript&logoColor=yellow&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=HTML&logo=HTML5&logoColor=Red&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=CSS&logo=CSS3&logoColor=Blue&style=for-the-badge">
-- Frontend - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=Reactjs&logo=React&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=Redux&logo=Redux&logoColor=764abc&style=for-the-badge">  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=React-Router&logo=React-Router&logoColor=Blue&style=for-the-badge"> 
+- Base - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=Javascript&logo=Javascript&logoColor=yellow&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=Typescript&logo=Typescript&logoColor=blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=HTML&logo=HTML5&logoColor=Red&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=CSS&logo=CSS3&logoColor=Blue&style=for-the-badge">
+- Frontend - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=Reactjs&logo=React&logoColor=Blue&style=for-the-badge">  <img alt="Plugin on redmine.org" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=Redux&logo=Redux&logoColor=764abc&style=for-the-badge">  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=React-Router&logo=React-Router&logoColor=Blue&style=for-the-badge">
 
 - Backend - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=NodeJS&logo=JavaScript&logoColor=Green&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=ExpressJS&logo=JavaScript&logoColor=Green&style=for-the-badge">
 
@@ -20,4 +20,11 @@ I've also experience in cloud service of Amazon (Aws)
 
 - Tools - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=Docker&logo=Docker&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Yellow&label=Travis&logo=Travis&logoColor=Yelllow&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=Git&logo=Git&logoColor=Red&style=for-the-badge">
 
-- Cloud - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=AWS&logo=EC2&logoColor=Blue&style=for-the-badge"> 
+- Cloud - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=AWS&logo=EC2&logoColor=Blue&style=for-the-badge">
+
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=sanibs23&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanibs23&show_icons=true&hide=html,css&theme=gotham&line_height=27&hide_border=true">
+
+</p>
