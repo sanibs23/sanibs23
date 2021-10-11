@@ -24,7 +24,6 @@ I've also experience in cloud service of Amazon (Aws)
 
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=sanibs23&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanibs23&show_icons=true&hide=html,css&theme=gotham&line_height=27&hide_border=true">
+<a href="https://app.daily.dev/sanibs23"><img src="https://api.daily.dev/devcards/5234ac04098e48ab92f6190be40ce5d6.png?r=ar1" width="400" alt="Sani Ahmed's Dev Card"/></a>
 
 </p>
